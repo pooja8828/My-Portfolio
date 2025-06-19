@@ -1,24 +1,22 @@
-# My-Portfolio
-# Frontend Battle Round 1 - Portfolio Submission
+# Frontend Battle Round 1 - Submission
 
-## Live Demo
-[Click here to view deployed site] (https://pooja8828.github.io/My-Portfolio/)
+## Live Link
+https://pooja8828.github.io/My-Portfolio/
 
 ## Tech Stack
-- HTML5, CSS3, JavaScript
-- React (if applicable)
-- Deployed on Netlify/Vercel
+- HTML
+- CSS
+- JavaScript
 
 ## Features Implemented
-- Responsive design
+- Responsive layout
 - Light/Dark mode toggle
-- Loader (from provided assets)
-- Functional navigation bar
-- Linked headings to sections
-- Portfolio content as creative addition
-
-## Notes
-Due to last-minute rendering issue with the provided design image, a personal portfolio was used as fallback. All core functional requirements were still addressed.
+- Navbar with internal links
+- Loader animation
+- Clean and structured design
 
 ## AI Tools Used
-- ChatGPT for structure and styling suggestions
+- ChatGPT for structural guidance and CSS refinements
+
+## Notes
+Due to a last-minute rendering issue with the provided image assets, a personal portfolio layout was submitted as fallback while meeting all required core features.
